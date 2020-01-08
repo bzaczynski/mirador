@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const div = document.querySelector("#content");
     
     function onSuccess(location) {
-        div.innerText = location.coords;
+        div.innerText = location.coords.latitude + ", " + location.coords.longitude + ", " + location.coords.altitude + ", " + location.coords.heading;
     }
 
     function onError(error) {
