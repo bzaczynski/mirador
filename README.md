@@ -2,6 +2,7 @@
 
 ## Resources
 
+- [ ] <https://github.com/bzaczynski/httpself>
 - [ ] <https://developers.google.com/web/tools/chrome-devtools/remote-debugging>
 - [ ] <https://www.html5rocks.com/en/tutorials/getusermedia/intro/>
 - [ ] <https://scotch.io/tutorials/front-and-rear-camera-access-with-javascripts-getusermedia>
